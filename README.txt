@@ -3,7 +3,8 @@ BKW source package v33
 Contents (five files):
   main.tex
   llncs.cls
-  README-v33.txt
+  preprint.pdf
+  README.txt
   verify_classical_grover.py
   verify_walk.py
 
